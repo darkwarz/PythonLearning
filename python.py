@@ -18,3 +18,5 @@ print(a)   # prints variable
 # health = 50
 #import random
 #potion_health = random.randint(25,50)       25 is minimum range and 50 is max. and it will produce a random number
+
+
